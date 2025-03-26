@@ -1,6 +1,6 @@
 # PyOrthoANI 基因组ANI计算工具
 
-![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Last Commit](https://img.shields.io/github/last-commit/username/pyorthoani-tool)
 
@@ -9,7 +9,7 @@
 ## 功能特性
 
 - 🖥️ **交互式界面**：友好的命令行交互体验
-- 🧬 **多格式支持**：支持.fa, .fasta, .fna, .ffn格式
+- 🧬 **多格式支持**：支持.fa, .fasta, .fna, .fnn格式
 - 📊 **智能可视化**：自动生成ANI热图和统计报告
 - ⚡ **高效计算**：利用pyorthoani进行快速比对
 - 📂 **灵活输出**：支持自定义输出目录
@@ -34,7 +34,7 @@
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/whb2468/pyorthoani-tool.git
+   git clone https://github.com/whb2468x/pyorthoani-tool.git
    cd pyorthoani-tool
    ```
 
@@ -171,3 +171,4 @@
 ## 许可证
 
  本项目采用MIT许可证 - 详情请见LICENSE文件。
+ [text](MIT_LICENCE.md)
